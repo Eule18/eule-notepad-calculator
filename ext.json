@@ -4,9 +4,10 @@
   "name": "Eule Notepad Calculator",
   "content_type": "SN|Component",
   "area": "editor-editor",
-  "version": "2.0.0",
-  "description": "An advanced notepad with live calculations, unit conversions, and date math.",
+  "version": "1.0.0",
+  "description": "A simple notepad with live, inline calculations for quick, back-of-the-napkin math.",
   "url": "https://your-username.github.io/eule-notepad-calculator/index.html",
   "download_url": "https://your-username.github.io/eule-notepad-calculator/index.html",
   "latest_url": "https://your-username.github.io/eule-notepad-calculator/ext.json"
 }
+```
